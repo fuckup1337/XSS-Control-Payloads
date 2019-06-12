@@ -1,0 +1,3 @@
+"><meta http-equiv="refresh" content="2;url=http://redirect.com" />
+// OR
+"><script>document.write("<meta http-equiv="refresh" content="2;url=http://example.com" />");</script>
